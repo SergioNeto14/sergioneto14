@@ -1,9 +1,7 @@
 # Hey There, How you doin'?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioguilhermeneto/)](https://www.linkedin.com/in/sergioguilhermeneto/)
-
-### This is about what I do...
-A Data Scientist with passion for what all the new oil can bring to us!
+## This is about what I do...
+A Data Scientist and a great Analyst with passion for what all the new oil can bring to us!
 I'm currently a Data Consultant at multiple tasks in LATAM operations of Bayer, through the name of Maxxi!
 
 Specialized in solving data problems, you would be surprised (contains ironic thinking) about my hard skills, such as:
@@ -18,15 +16,25 @@ Some facts:
 - I learned spanish. Only to talk to my friends in service!
 - Machine Learning is more than house prices or titanic predictions. That's for sure!
 
-
 [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioneto12)](https://github.com/sergioneto12/github-readme-stats)
 
+---
+<div>
+<a href="https://github.com/jessycalais">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioneto14&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
+---
+
+**To get in touch:**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioguilhermeneto/)
 
 ## Do I have something to show? (Sure!)
 NOTE: Currently these repos are from my previous account, will soon be brought to this current fresh account!
 
-- [Teachers in southeast analisys](https://github.com/sergioneto12/Analise_Censo_Escolar_2020)
-- [BR companies before and after pandemic](https://github.com/sergioneto12/PJI4_analise_dados_cnpj)
+- [Teachers in southeast analisys](https://github.com/sergioneto14/Analise_Censo_Escolar_2020)
+- [BR companies before and after pandemic](https://github.com/sergioneto14/PJI4_analise_dados_cnpj)
+- [My Virtual Assistant](https://github.com/SergioNeto14/virtual_assist/)
 
 <!--
 **sergioneto12/sergioneto12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
