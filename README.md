@@ -9,7 +9,7 @@ I'm currently a Data Consultant at multiple tasks in LATAM operations of Bayer, 
 Specialized in solving data problems, you would be surprised (contains ironic thinking) about my hard skills, such as:
 - Knowledge in languages like: SQL, Python, VBA, Javascript, Java.
 - Tools as: Tableau, Power BI, plotting libs in Python, Jupyter Notebook
-- Graduated in Math, Concluded MBA in Data Science, i'm currently at my last year to be graduated in Computer Engineering.
+- Graduated in Math, Concluded MBA in Data Science, I'm currently at my last year to be graduated in Computer Engineering.
 
 Some facts:
 - My last task from Math graduation was a prediction of paper waste on schools' classrooms from São Paulo.
@@ -18,9 +18,9 @@ Some facts:
 - I learned spanish. Only to talk to my friends in service!
 - Machine Learning is more than house prices or titanic predictions. That's for sure!
 
-<!--
+
 [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioneto12)](https://github.com/sergioneto12/github-readme-stats)
--->
+
 
 ## Do I have something to show? (Sure!)
 NOTE: Currently these repos are from my previous account, will soon be brought to this current fresh account!
