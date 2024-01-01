@@ -4,7 +4,7 @@
 A Data Scientist and a great Analyst with passion for what all the new oil can bring to us!
 I'm currently a Data Consultant at multiple tasks in LATAM operations of Bayer, through the name of Maxxi!
 
-Specialized in solving data problems, you would be surprised (contains ironic thinking) about my hard skills, such as:
+Specialized in solving data problems, you would be surprised about my hard skills, such as:
 - Knowledge in languages like: SQL, Python, VBA, Javascript, Java.
 - Tools as: Tableau, Power BI, plotting libs in Python, Jupyter Notebook
 - Graduated in Math, Concluded MBA in Data Science, I'm currently at my last year to be graduated in Computer Engineering.
